@@ -1,0 +1,14 @@
+body,
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    max-width: 100%;
+    min-height: 100vh;
+    padding: 0;
+    color: white;
+}
+
+ul {
+  list-style-type: none;
+}
